@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+server/.env
+client/.env
+client/.env.local
+
+# Runtime / local
+.api-port
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Build output
+client/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
