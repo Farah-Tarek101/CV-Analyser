@@ -180,4 +180,4 @@ Never commit `.env` files or API keys.
 
 ## License
 
-MIT (add a `LICENSE` file if you want to formalize this)
+MIT — see [LICENSE](LICENSE).
